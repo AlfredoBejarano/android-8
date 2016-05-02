@@ -10,7 +10,8 @@ SDK, becoming in a "SDK not available for Mac OS" error within Android studio.
 
 Clone this repo, choose your platforms SDK folder (mac, windows or linux) and copy the contents to:
 
-<Your SDK Location>/platforms/android-8
+
+< Your SDK Location >/platforms/android-8
 
 In a Mac with default settings, it would be ~/Library/Android/sdk/platforms/android-8
 
