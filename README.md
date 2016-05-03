@@ -3,8 +3,8 @@ For some reason you need Android API 8 (Android SDK 8) in your project? here you
 
 ## Why this repo exists?
 
-Google deprecated this SDK for Mac and Windows, (this repo is Mac OS X version though), they hide the URL for downloading the 
-SDK, becoming in a "SDK not available for Mac OS" error within Android studio.
+Google deprecated this SDK for Mac and Windows, they hide the URL for downloading the 
+SDK, becoming in a "SDK not available for Mac OS/Windows" error within Android studio.
 
 ## Solve it!
 
